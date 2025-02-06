@@ -1,6 +1,6 @@
 package org.example.Proxy;
 
-public class Sistema {
+public class Main {
     public static void main(String[] args) {
         Documento doc1 = new ProxyDocumento("admin", "Relatório financeiro confidencial");
         doc1.exibir();
