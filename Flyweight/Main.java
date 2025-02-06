@@ -1,6 +1,6 @@
 package org.example.Flyweight;
 
-public class EditorTexto {
+public class Main {
     public static void main(String[] args) {
         CaracterFactory factory = new CaracterFactory();
 
