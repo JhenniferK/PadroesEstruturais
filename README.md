@@ -20,6 +20,28 @@ Os seguintes padrões estruturais foram implementados neste repositório:
 
 - **Proxy (Proxi)** - Fornece um substituto ou representante para outro objeto, controlando seu acesso.
 
+## 🚀 Como Executar
+
+1. Clone este repositório
+    ```bash
+    git clone https://github.com/JhenniferK/PadroesEstruturais.git
+    ```
+    
+2. Navegue até o diretório do projeto
+   ```bash
+   cd PadroesEstruturais
+   ```
+
+3. Compile os arquivos do padrão que deseja executar
+   ```bash
+   javac -d . Adapter/*.java
+   ```
+
+4. Execute o código
+   ```bash
+   java org.example.Adapter.Main
+   ``` 
+
 ---
 
 🖤 **Obrigada por visitar este repositório!**
