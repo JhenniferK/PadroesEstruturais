@@ -1,8 +1,8 @@
-# 📚 Padrões Estruturais
+# Padrões Estruturais
 
 Bem vindo(a)! Este repositório contém implementações de exemplos para cada um dos padrões estruturais apresentados na disciplina de **Padrões de Projeto**. Os padrões estruturais são utilizados para definir a composição e estrutura de classes e objetos, garantindo flexibilidade e reuso no código.
 
-## 💻 Padrões Implementados
+## Padrões Implementados
 
 Os seguintes padrões estruturais foram implementados neste repositório:
 
@@ -20,7 +20,7 @@ Os seguintes padrões estruturais foram implementados neste repositório:
 
 - **Proxy (Proxi)** - Fornece um substituto ou representante para outro objeto, controlando seu acesso.
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone este repositório
     ```bash
